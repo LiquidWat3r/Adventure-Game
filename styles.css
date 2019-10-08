@@ -1,21 +1,17 @@
-#startmenu {
+.align {
+    text-align:center;
+    justify-content:center;
+}
+
+#buttonOptions{
     text-align:center;
     justify-content:center;
 }
 
 .title {
     border:2px black solid;
-    background-color: rgba(226, 226, 226, 0.25);
+    background-color: rgba(226, 226, 226, 0.75);
     margin-top:20%;
-}
-
-.startImg {
-    width:60%;
-    height:2%;
-}
-
-.startButton {
-    padding-top
 }
 
 body{
@@ -24,5 +20,11 @@ body{
 
 .startButton{
     font-size:20px;
+}
+
+#intro{
+    margin-top:20%;
+    border:2px black solid;
+    background-color: rgba(226, 226, 226, 0.75);
 
 }
