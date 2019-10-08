@@ -1,0 +1,28 @@
+#startmenu {
+    text-align:center;
+    justify-content:center;
+}
+
+.title {
+    border:2px black solid;
+    background-color: rgba(226, 226, 226, 0.25);
+    margin-top:20%;
+}
+
+.startImg {
+    width:60%;
+    height:2%;
+}
+
+.startButton {
+    padding-top
+}
+
+body{
+    background-image: url("https://cdn.vox-cdn.com/thumbor/YQxpaeCfqPFciaWi3q1XuC38C3w=/0x0:1600x1066/1200x0/filters:focal(0x0:1600x1066):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/9188989/Amrita_Marino_Curbed_NYC_FINAL_photo.jpg");
+}
+
+.startButton{
+    font-size:20px;
+
+}
